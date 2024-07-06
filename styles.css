@@ -1,0 +1,23 @@
+.card-set {
+    display: flex;
+    gap: 20px;
+}
+
+.card {
+    border: 1px solid black;
+}
+
+.main-content {
+    display: flex;
+    align-items: center;
+}
+
+.icon-container, .text-container {
+    margin: 16px;
+}
+
+a {
+    display: flex;
+    justify-content: space-between;
+}
+
